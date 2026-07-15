@@ -1,0 +1,10 @@
+1. Open Terminal
+2. Paste command, from bash Installation
+3. Hit enter
+4. Attempt to run, for the first time. Here is an example:
+import action
+
+def firstRepeat():
+  print("I am using repeat")
+
+action.repeat(firstRepeat, 3)
