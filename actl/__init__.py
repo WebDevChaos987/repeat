@@ -3,3 +3,4 @@ from .clear import clear
 from .wait import wait
 from .color import color
 from .highlight import highlight
+from .sp import sp
