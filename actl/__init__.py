@@ -6,3 +6,4 @@ from .highlight import highlight
 from .sp import sp
 from .pb import pb
 from .ask import ask
+from .roll import roll
