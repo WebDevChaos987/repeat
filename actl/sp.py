@@ -1,7 +1,7 @@
 import sys
 from .wait import wait
 
-def typewriter(text, speed=100000):
+def sp(text, speed=100000):
     """
     Prints text one character at a time like a video game dialogue box.
     """
